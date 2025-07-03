@@ -1,3 +1,9 @@
+![Made for MX Linux](https://img.shields.io/badge/made%20for-MX%20Linux-blue?logo=debian&logoColor=white)
+![Debian Based](https://img.shields.io/badge/compatible-Debian%20%2F%20Ubuntu-green?logo=linux&logoColor=white)
+![Shell Script](https://img.shields.io/badge/script-Bash-lightgrey?logo=gnu-bash)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0-orange)
+
 # ⚡ mxlpp – MX Linux Power Pack
 
 `mxlpp` is a lightweight, terminal-based performance optimization toolkit for **MX Linux**, inspired by Garuda Linux's tuning philosophy — minus the eye candy.
