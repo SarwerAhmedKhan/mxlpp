@@ -15,5 +15,5 @@ Inspired by Garuda, but fully CLI-only and lightweight.
 ## 🛠 Install via .deb
 
 ```bash
-wget https://github.com/<your-username>/mxlpp/releases/download/v1.0/mxlpp-1.0.deb
+wget https://github.com/SarwerAhmedKhan/mxlpp/releases/download/v1.0/mxlpp-1.0.deb
 sudo dpkg -i mxlpp-1.0.deb
