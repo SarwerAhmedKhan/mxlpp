@@ -1,45 +1,29 @@
-# mxlpp – MX Linux Power Pack 🧠⚡
-
-A terminal-based performance optimization tool for MX Linux.  
-Inspired by Garuda, but fully CLI-only and lightweight.
-
-## 📦 Features
-
-- ZRAM + preload + TLP
-- SSD TRIM detection
-- Swappiness tuning
-- Timeshift install
-- One-click auto optimization (option 9)
-- Pure CLI (no GUI or bloat)
-
-## 🛠 Install via .deb
-
-```bash
-wget https://github.com/SarwerAhmedKhan/mxlpp/releases/download/v1.0/mxlpp-1.0.deb
-sudo dpkg -i mxlpp-1.0.deb
 # ⚡ mxlpp – MX Linux Power Pack
 
-`mxlpp` is a CLI-based performance optimization toolkit for **MX Linux**, inspired by Garuda Linux’s tuning features – but lightweight and terminal-focused.
+`mxlpp` is a lightweight, terminal-based performance optimization toolkit for **MX Linux**, inspired by Garuda Linux's tuning philosophy — minus the eye candy.
 
-Designed for users who want speed, efficiency, and stability without unnecessary graphical overhead.
+It’s built for users who want **maximum speed and system responsiveness** on both old and modern hardware, without bloating the system.
 
 ---
 
 ## 🚀 Features
 
-✅ Interactive CLI Menu  
-✅ Safe system tweaks (ZRAM, preload, swappiness, TRIM)  
-✅ Auto-enable SSD optimizations  
-✅ Install optional tools (TLP, Timeshift, htop, btop)  
-✅ Ideal for older or mid-range hardware  
-✅ Lightweight and minimal – no bloat, no eye-candy
+- ✅ Interactive CLI menu with user-friendly options
+- ✅ ZRAM (compressed RAM swap) support with `lz4`
+- ✅ Preload for faster app startup
+- ✅ Tweak system swappiness for optimal RAM behavior
+- ✅ Enable TRIM for SSD longevity
+- ✅ Optional: install `TLP`, `Timeshift`, `htop`, `btop`
+- ✅ Safe and reversible system changes
+- ✅ Zero graphical dependencies – pure terminal
 
 ---
 
-## 📦 Installation (via `.deb`)
+## 📦 Installation
 
-To install `mxlpp` on MX Linux or any Debian-based system:
+To install `mxlpp` on **MX Linux** or any Debian-based system:
 
 ```bash
 wget https://github.com/SarwerAhmedKhan/mxlpp/releases/download/v1.0/mxlpp-1.0.deb
 sudo dpkg -i mxlpp-1.0.deb
+
